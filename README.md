@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bartuakdogan
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python,HTML,CSS,JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bartuakdogan8@gmail.com
 

@@ -1,21 +1,21 @@
+## <div align="center">Hello World👋🌍! I'm Bartu! I am working on Front-End & Data Science 👨‍💻 working and developing since 2021 🚀</div>  
+  
+
 <div align="center">
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Hello World👋🌍! I'm Bartu! I am working on Front-End & Data Science 👨‍💻 working and developing since 2021 🚀</div>  
+- **🔭 I’m currently working on Python and Front-End projects!⚛️**  
   
 
-- 🔭 I’m currently working on Python and Front-End projects!⚛️  
+- **🌱 I’m currently learning Python and React.js**  
   
 
-- 🌱 I’m currently learning Python and React.js  
+- **❓ Help me about anything related to Front-End  and Data Science technologies**  
   
 
-- ❓ Help me about anything related to Front-End  and Data Science technologies  
-  
-
-- ⚡ Fun fact: Show must code on!  
+- **⚡ Fun fact: Show must code on!**  
   
 
 <br/>  

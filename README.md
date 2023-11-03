@@ -1,4 +1,4 @@
-## <div align="center">Hello World👋🌍! I'm Bartu! I am working on Front-End & Data Science 👨‍💻 working and developing since 2021 🚀</div>  
+## <div align="center">Hello World👋🌍! I'm Bartu! I am working on Data Analysis / Visualization & Data Science 👨‍💻 working and developing since 2021 🚀</div>  
   
 
 <div align="center">
@@ -6,13 +6,13 @@
 </div>  
   
 
-- **🔭 I’m currently working on Python and Front-End projects!⚛️**  
+- **🔭 I’m currently working on Python/SQL/Pandas/NumPy/PowerBI projects!⚛️**  
   
 
-- **🌱 I’m currently learning Python and React.js**  
+- **🌱 I’m currently learning SQL, PowerBI and Tableau**  
   
 
-- **❓ Help me about anything related to Front-End  and Data Science technologies**  
+- **❓ Help me about anything related to Data Analysis and Data Science technologies**  
   
 
 - **⚡ Fun fact: Show must code on!**  

@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bartu Akdoğan</h1>
-<h3 align="center">Hello World👋🌍! I'm Bartu! I am working on Backend Developing (.NET) 👨‍💻 working and developing since 2021 🚀</h3>
+<h3 align="center">Hello World👋🌍! I'm Bartu! I am working on Data Science 👨‍💻 working and developing since 2021 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bartuakdogan&label=Profile%20views&color=0e75b6&style=flat" alt="bartuakdogan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bartuakdogan" alt="bartuakdogan" /></a> </p>
 
-- 🔭 I’m currently working on **MeetingApp using ASP.NET Core Web App**
+- 🔭 I’m currently working on **Statistical Analysis**
 
-- 🌱 I’m currently learning **.NET Core, NoSQL and Backend Techs**
+- 🌱 I’m currently learning **Pandas, NumPy, Seaborn, ML and Data Science Techs**
 
-- 🤝 I’m looking for help with **Backend Technologies**
-
-- 💬 Ask me about **Python, C#, SQL, ASP.NET, HTML5, CSS3, BootStrap**
+- 💬 Ask me about **Python, C#, SQL, PowerBI, Tableu**
 
 - 📫 How to reach me **bartuakdogan8@gmail.com**
 
